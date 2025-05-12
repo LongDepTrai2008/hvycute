@@ -1,0 +1,23 @@
+{
+  "greeting": "Hello",
+  "name": "Hà Vy",
+  "greetingText": "Hà Vy dễ thương của anh!",
+  "wishText": "Anh sẽ luôn ở bên cạnh em ;)",
+  "imagePath": "img/hvy.png",
+  "text1": "Cuối cùng cũng đến sinh nhật em iu rùii!!! :D",
+  "textInChatBox": "Chúc mừng sinh nhật em iu!! Yaayy! Gửi đến em nhiều lời chúc blah blah...",
+  "sendButtonLabel": "Send",
+  "text2": "Lúc đầu anh định làm vậy đó.",
+  "text3": "Nhưng rùi a dừng lại...",
+  "text4": "Anh nhận ra anh muốn làm thứ gì đó",
+  "text4Adjective": "Đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Em là người đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "Vậy",
+  "bigTextPart2": "nên",
+  "wishHeading": "Người yêu anh sinh nhật vui vẻ!!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
